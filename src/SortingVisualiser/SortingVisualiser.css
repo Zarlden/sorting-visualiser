@@ -1,0 +1,12 @@
+#graph-container {
+    position: relative;
+    display: flex;
+    top: 30em;
+}
+
+.array-bar {
+    /* margin: 0 0.1rem; */
+    width: 100%;
+    background-color: pink;
+    margin-top: auto;
+}
